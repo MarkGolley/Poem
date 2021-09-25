@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the pony
 
 Roses are red
 violets are blue
@@ -9,6 +9,9 @@ you can code a lot faster
 
 The unicorn loves the rainbow
 But when it falls off it says "Oh no!"
+
+The pony get crushed by the unicorn
+and now it is flat and uniform.
 
 Thanks!
 
