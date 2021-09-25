@@ -4,6 +4,8 @@ Roses are red
 violets are blue
 my code is a mess
 but so is yours too
+but once you're a master
+you can code a lot faster
 
 The unicorn loves the rainbow
 But when it falls off it says "Oh no!"
